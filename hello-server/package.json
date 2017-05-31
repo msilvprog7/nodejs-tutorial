@@ -1,0 +1,11 @@
+{
+  "name": "hello-server",
+  "version": "1.0.0",
+  "description": "A simple example of an http server that returns 'Hello, world!'",
+  "main": "hello-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Snider",
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+    "keys": {
+        "BingMapsApi": ""
+    },
+    "defaultMapView": {
+        "location": {
+            "latitude": 47.614871,
+            "longitude": -122.194032
+        },
+        "zoom": 17
+    }
+}
