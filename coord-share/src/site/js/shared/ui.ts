@@ -51,7 +51,7 @@ export class Page {
      */
      static GetUser(selector): User {
         return {
-            id: $(selector).value()
+            id: $(selector).val()
         };
      }
 }
